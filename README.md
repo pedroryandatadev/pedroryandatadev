@@ -7,4 +7,4 @@
 </p>
 
 <a href="https://github.com/pedroryandatadev"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=pedroryandatadev&hide=contribs&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroryandatadev&theme=dark"/>
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroryandatadev&layout=compact&theme=dark"/>
