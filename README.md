@@ -6,6 +6,6 @@
 </a>
 </p>
 
-### Test my Machine Learning project focused on [arboviruses](arbovirus.streamlit.app).
+### Test my Machine Learning project focused on [arboviruses](https://arbovirus.streamlit.app).
 
 It was developed with an interactive and intuitive interface, allowing users to perform tests in a practical way. The system uses a predictive Machine Learning model, trained by me, to assist in diagnosis as a screening tool, providing support in the initial identification of possible cases.
