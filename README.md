@@ -6,5 +6,6 @@
 </a>
 </p>
 
-<a href="https://github.com/pedroryandatadev"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=pedroryandatadev&hide=contribs&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroryandatadev&layout=compact&theme=dark"/>
+### Test my Machine Learning project focused on [arboviruses](arbovirus.streamlit.app).
+
+It was developed with an interactive and intuitive interface, allowing users to perform tests in a practical way. The system uses a predictive Machine Learning model, trained by me, to assist in diagnosis as a screening tool, providing support in the initial identification of possible cases.
